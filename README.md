@@ -7,13 +7,12 @@
 - **Browse Luxury Yachts:** Explore a wide selection of yachts, each with detailed specs such as size, year, guest capacity, cabins, amenities, and location.
 - **Dynamic Filtering:** Easily filter yachts by size categories (0-50', 51-80', 81'+) for quick discovery.
 - **Responsive Design:** Enjoy a fully responsive interface optimized for both desktop and mobile devices.
-- **User-Friendly Experience:** Simple navigation, clear visuals, and intuitive booking flow.
-- **Rich Visuals:** High-quality images and icons for each yacht and amenity.
-- **Contact & Support:** Quick access to support via phone or email.
+- **User-Friendly Experience:** Simple navigation and clear visuals.
 
 
 ## Project Structure
 
+- **Register/Login Page:** Users must register or log in before accessing the main features of the app.
 - **Homepage:** Main landing page with yacht listings and filters.
 - **Yacht Data:** All yacht information, specs, and amenities are organized for easy browsing.
 - **Scripts & Styles:** Modern, modular code for a clean and engaging look.
