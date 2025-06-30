@@ -1,0 +1,1376 @@
+[
+    {
+      "name": "26' SEARAY",
+      "image": "./images/boat1.webp",
+      "details": {
+        "year": { "text": "2006", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "26ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "12 people", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "0 cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": { "text": "Miami", "icon": "./images/location.svg", "show": true }
+      },
+      "amenities": {
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "40' AZIMUT MBM",
+      "image": "./images/boat2.webp",
+      "details": {
+        "year": { "text": "2006", "icon": "./images/year.svg", "show": false },
+        "size": { "text": "40ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "12 people", "icon": "./images/guests.svg", "show": false },
+        "capacity": { "text": "2 cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": { "text": "Miami", "icon": "./images/location.svg", "show": true }
+      },
+      "amenities": {
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "40' AZIMUT SEASLE",
+      "image": "./images/boat3.webp",
+      "details": {
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "year": { "text": "2006", "icon": "./images/year.svg", "show": false },
+        "size": { "text": "40ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "12 people", "icon": "./images/guests.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        },
+        "capacity": { "text": "2 cabins", "icon": "./images/cabins.svg", "show": false },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": { "text": "Miami", "icon": "./images/location.svg", "show": false }
+      },
+      "amenities": {},
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "42' CIGARETTE BOAT",
+      "image": "./images/boat4.webp",
+      "details": {
+        "year": { "text": "2006", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "42ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "12 people", "icon": "./images/guests.svg", "show": true },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": false
+        },
+        "capacity": { "text": "2 cabins", "icon": "./images/cabins.svg", "show": false },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": { "text": "Miami", "icon": "./images/location.svg", "show": true }
+      },
+      "amenities": {},
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "42' MARQUIS",
+      "image": "./images/boat5.webp",
+      "details": {
+        "year": { "text": "2009", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "42ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "2 cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": { "text": "Miami", "icon": "./images/location.svg", "show": true }
+      },
+      "amenities": {
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "42' AZIMUT",
+      "image": "./images/boat6.webp",
+      "details": {
+        "year": { "text": "2001", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "42ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "2 cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": { "text": "Miami", "icon": "./images/location.svg", "show": true }
+      },
+      "amenities": {
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "44' FONTAINE PAJOT",
+      "image": "./images/boat7.webp",
+      "details": {
+        "year": { "text": "2009", "icon": "./images/year.svg", "show": false },
+        "size": { "text": "44ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "4 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true }
+      },
+      "amenities": {
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": false
+        },
+        "location": {
+          "text": "Fort Lauderdale",
+          "icon": "./images/location.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "44' FJORD",
+      "image": "./images/boat8.webp",
+      "details": {
+        "year": { "text": "2020", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "44ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "2 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": {
+          "text": "Miami Beach",
+          "icon": "./images/location.svg",
+          "show": true
+        }
+      },
+      "amenities": {
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "45' FAIRLINE",
+      "image": "./images/boat9.webp",
+      "details": {
+        "year": { "text": "2020", "icon": "./images/year.svg", "show": false },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "size": { "text": "45ft", "icon": "./images/size.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": false },
+        "capacity": { "text": "2 Cabins", "icon": "./images/cabins.svg", "show": false },
+        "location": {
+          "text": "Miami Beach",
+          "icon": "./images/location.svg",
+          "show": false
+        }
+      },
+      "amenities": {},
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "45' PRESTIGE",
+      "image": "./images/boat10.webp",
+      "details": {
+        "year": { "text": "2020", "icon": "./images/year.svg", "show": false },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "size": { "text": "45ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "capacity": { "text": "2 Cabins", "icon": "./images/cabins.svg", "show": false },
+        "location": {
+          "text": "Miami Beach",
+          "icon": "./images/location.svg",
+          "show": false
+        }
+      },
+      "amenities": {},
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "45' GALEON",
+      "image": "./images/boat11.webp",
+      "details": {
+        "year": { "text": "2022", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "45ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "2 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": { "text": "Miami", "icon": "./images/location.svg", "show": true }
+      },
+      "amenities": {
+        "gear": { "text": "Snorkling Gear", "icon": "./images/gear.svg", "show": true },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "50' SUNSEEKER",
+      "image": "./images/boat12.webp",
+      "details": {
+        "year": { "text": "2022", "icon": "./images/year.svg", "show": false },
+        "size": { "text": "45ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "3 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": { "text": "Miami", "icon": "./images/location.svg", "show": true }
+      },
+      "amenities": {
+        "gear": {
+          "text": "Snorkling Gear",
+          "icon": "./images/gear.svg",
+          "show": false
+        },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "50' AZIMUT",
+      "image": "./images/boat13.webp",
+      "details": {
+        "year": { "text": "2022", "icon": "./images/year.svg", "show": false },
+        "size": { "text": "50ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "3 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": { "text": "Miami", "icon": "./images/location.svg", "show": true }
+      },
+      "amenities": {
+        "gear": {
+          "text": "Snorkling Gear",
+          "icon": "./images/gear.svg",
+          "show": false
+        },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "51' CIPILI",
+      "image": "./images/boat14.webp",
+      "details": {
+        "year": { "text": "2022", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "51ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "3 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": { "text": "Miami", "icon": "./images/location.svg", "show": true }
+      },
+      "amenities": {
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "52' BENETEAU",
+      "image": "./images/boat15.webp",
+      "details": {
+        "year": { "text": "2013", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "52 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "3 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": { "text": "Miami", "icon": "./images/location.svg", "show": true }
+      },
+      "amenities": {
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "55' AZIMUT SPORT",
+      "image": "./images/boat16.webp",
+      "details": {
+        "year": { "text": "2015", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "55 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "3 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": { "text": "Miami", "icon": "./images/location.svg", "show": true }
+      },
+      "amenities": {
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "55' PRESTIGE",
+      "image": "./images/boat17.webp",
+      "details": {
+        "year": { "text": "2014", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "55 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "3 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": { "text": "Miami", "icon": "./images/location.svg", "show": true }
+      },
+      "amenities": {
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "60' PRESTIGE",
+      "image": "./images/boat18.webp",
+      "details": {
+        "year": { "text": "2020", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "60 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "3 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": { "text": "Miami", "icon": "./images/location.svg", "show": true }
+      },
+      "amenities": {
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "62' AZIMUT",
+      "image": "./images/boat19.webp  ",
+      "details": {
+        "year": { "text": "2020", "icon": "./images/year.svg", "show": false },
+        "size": { "text": "62 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "3 Cabins", "icon": "./images/cabins.svg", "show": false },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": { "text": "Miami", "icon": "./images/location.svg", "show": false }
+      },
+      "amenities": {
+        "location": { "text": "Miami", "icon": "./images/location.svg", "show": false },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "62' EXPLORER",
+      "image": "./images/boat20.webp",
+      "details": {
+        "year": { "text": "2021", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "62 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "3 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true }
+      },
+      "amenities": {
+        "location": {
+          "text": "Bayside Miami",
+          "icon": "./images/location.svg",
+          "show": true
+        },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "68' SUNSEEKER",
+      "image": "./images/boat21.webp",
+      "details": {
+        "year": { "text": "2024", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "68 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "3 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true }
+      },
+      "amenities": {
+        "location": {
+          "text": "Bayside Miami",
+          "icon": "./images/location.svg",
+          "show": false
+        },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "68' SUNSEEKER",
+      "image": "./images/boat22.webp",
+      "details": {
+        "year": { "text": "2024", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "68 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "3 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true }
+      },
+      "amenities": {
+        "location": {
+          "text": "Bayside Miami",
+          "icon": "./images/location.svg",
+          "show": false
+        },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "68' PERSHING",
+      "image": "./images/boat23.webp",
+      "details": {
+        "year": { "text": "2024", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "68 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "3 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true }
+      },
+      "amenities": {
+        "location": {
+          "text": "Bayside Miami",
+          "icon": "./images/location.svg",
+          "show": false
+        },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "68' GALEON",
+      "image": "./images/boat24.webp",
+      "details": {
+        "year": { "text": "2022", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "68 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "3 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true }
+      },
+      "amenities": {
+        "location": {
+          "text": "Bayside Miami",
+          "icon": "./images/location.svg",
+          "show": false
+        },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "70' AZIMUT MANC",
+      "image": "./images/boat25.webp",
+      "details": {
+        "year": { "text": "2022", "icon": "./images/year.svg", "show": false },
+        "size": { "text": "70 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "3 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": {
+          "text": "Miami",
+          "icon": "./images/location.svg",
+          "show": true
+        }
+      },
+      "amenities": {
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "70' AZIMUT",
+      "image": "./images/boat26.webp",
+      "details": {
+        "year": { "text": "2016", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "70 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "4 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": {
+          "text": "Miami",
+          "icon": "./images/location.svg",
+          "show": true
+        }
+      },
+      "amenities": {
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": true },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "74' NUMARINE",
+      "image": "./images/boat27.webp",
+      "details": {
+        "year": { "text": "2019", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "74 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "4 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": {
+          "text": "Miami",
+          "icon": "./images/location.svg",
+          "show": true
+        }
+      },
+      "amenities": {
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": false },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "74' SUNSEEKER ST",
+      "image": "./images/boat28.webp",
+      "details": {
+        "year": { "text": "2022", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "74 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "4 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": {
+          "text": "Miami",
+          "icon": "./images/location.svg",
+          "show": true
+        }
+      },
+      "amenities": {
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": false },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "75' FERRETI",
+      "image": "./images/boat29.webp",
+      "details": {
+        "year": { "text": "2016", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "75 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "4 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": {
+          "text": "Miami",
+          "icon": "./images/location.svg",
+          "show": true
+        }
+      },
+      "amenities": {
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": false },
+        "fishing": {
+          "text": "Fishing Gear",
+          "icon": "./images/hook.svg",
+          "show": true
+        },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "76' RIVA",
+      "image": "./images/boat30.webp",
+      "details": {
+        "year": { "text": "2016", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "76 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "3 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": {
+          "text": "Miami",
+          "icon": "./images/location.svg",
+          "show": true
+        }
+      },
+      "amenities": {
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": false },
+        "fishing": {
+          "text": "Fishing Gear",
+          "icon": "./images/hook.svg",
+          "show": false
+        },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+      "name": "83' FERRETI",
+      "image": "./images/boat31.webp",
+      "details": {
+        "year": { "text": "2016", "icon": "./images/year.svg", "show": false },
+        "size": { "text": "83 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "3 Cabins", "icon": "./images/cabins.svg", "show": false },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": {
+          "text": "Miami",
+          "icon": "./images/location.svg",
+          "show": false
+        }
+      },
+      "amenities": {
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": false },
+        "fishing": {
+          "text": "Fishing Gear",
+          "icon": "./images/hook.svg",
+          "show": false
+        },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": false
+        },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true }
+      },
+      "extraAmenities": {
+        "wifi": { "text": "WiFi", "icon": "./images/wifi.svg", "show": false }
+      }
+    },
+    {
+        "name": "84' SUNSEEKER",
+        "image": "./images/boat33.webp",
+        "details": {
+          "year": { "text": "2007", "icon": "./images/year.svg", "show": true },
+          "size": { "text": "84 ft", "icon": "./images/size.svg", "show": true },
+          "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+          "capacity": { "text": "4 Cabins", "icon": "./images/cabins.svg", "show": true }
+        },
+        "amenities": {
+          "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+          "location": {
+            "text": "Miami Beach",
+            "icon": "./images/location.svg",
+            "show": true
+          },
+          "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": false },
+          "fishing": {
+            "text": "Fishing Gear",
+            "icon": "./images/hook.svg",
+            "show": false
+          }
+        },
+        "extraAmenities": {
+          "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+          "miscellaneous": {
+            "text": "Miscellaneous",
+            "icon": "./images/miscellaneousfloats.svg",
+            "show": true
+          }
+        }
+      },
+    {
+      "name": "84' SUNSEEKER",
+      "image": "./images/boat33.webp",
+      "details": {
+        "year": { "text": "2007", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "84 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "4 Cabins", "icon": "./images/cabins.svg", "show": true }
+      },
+      "amenities": {
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": {
+          "text": "Miami Beach",
+          "icon": "./images/location.svg",
+          "show": true
+        },
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": false },
+        "fishing": {
+          "text": "Fishing Gear",
+          "icon": "./images/hook.svg",
+          "show": false
+        },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true }
+      },
+      "extraAmenities": {
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      }
+    },
+    {
+      "name": "90' PERSHING",
+      "image": "./images/boat34.webp",
+      "details": {
+        "year": { "text": "2009", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "90 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "3 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": {
+          "text": "Miami Beach",
+          "icon": "./images/location.svg",
+          "show": true
+        }
+      },
+      "amenities": {
+        "gear": { "text": "Snorkling Gear", "icon": "./images/gear.svg", "show": true },
+        "kayak": { "text": "Kayak", "icon": "./images/kayak.svg", "show": true },
+        "paddleboard": {
+          "text": "Paddleboard",
+          "icon": "./images/paddleboard.svg",
+          "show": true
+        },
+        "slide": { "text": "Slide", "icon": "./images/slide.svg", "show": true },
+        "seabobs": { "text": "Seabobs", "icon": "./images/seabobs.svg", "show": true },
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": false },
+        "fishing": {
+          "text": "Fishing Gear",
+          "icon": "./images/hook.svg",
+          "show": false
+        }
+      },
+      "extraAmenities": {
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      }
+    },
+    {
+      "name": "91' HALGARVE",
+      "image": "./images/boat35.webp",
+      "details": {
+        "year": { "text": "2020", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "91 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "4 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": {
+          "text": "Miami Beach",
+          "icon": "./images/location.svg",
+          "show": true
+        }
+      },
+      "amenities": {
+        "gear": { "text": "Snorkling Gear", "icon": "./images/gear.svg", "show": true },
+        "kayak": { "text": "Kayak", "icon": "./images/kayak.svg", "show": true },
+        "paddleboard": {
+          "text": "Paddleboard",
+          "icon": "./images/paddleboard.svg",
+          "show": true
+        },
+        "slide": { "text": "Slide", "icon": "./images/slide.svg", "show": false },
+        "seabobs": { "text": "Seabobs", "icon": "./images/seabobs.svg", "show": true },
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": true },
+        "fishing": {
+          "text": "Fishing Gear",
+          "icon": "./images/hook.svg",
+          "show": false
+        }
+      },
+      "extraAmenities": {
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      }
+    },
+    {
+      "name": "100' AZIMUT",
+      "image": "./images/boat36.webp",
+      "details": {
+        "year": { "text": "2010", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "100 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "capacity": { "text": "5 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "location": {
+          "text": "Miami Beach",
+          "icon": "./images/location.svg",
+          "show": true
+        }
+      },
+      "amenities": {
+        "gear": {
+          "text": "Snorkling Gear",
+          "icon": "./images/gear.svg",
+          "show": false
+        },
+        "pool": { "text": "Pool", "icon": "./images/pool.svg", "show": true },
+        "kayak": { "text": "Kayak", "icon": "./images/kayak.svg", "show": false },
+        "paddleboard": {
+          "text": "Paddleboard",
+          "icon": "./images/paddleboard.svg",
+          "show": false
+        },
+        "slide": { "text": "Slide", "icon": "./images/slide.svg", "show": false },
+        "seabobs": { "text": "Seabobs", "icon": "./images/seabobs.svg", "show": true },
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": false },
+        "trampoline": {
+          "text": "Trampoline",
+          "icon": "./images/trampoline.svg",
+          "show": true
+        },
+        "jetski": { "text": "JetSki", "icon": "./images/jetski.svg", "show": true },
+        "jacuzzi": { "text": "Jacuzzi", "icon": "./images/jacuzzi.svg", "show": true },
+        "fishing": {
+          "text": "Fishing Gear",
+          "icon": "./images/hook.svg",
+          "show": false
+        }
+      },
+      "extraAmenities": {
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      }
+    },
+    {
+      "name": "105' AZIMUT",
+      "image": "./images/boat37.webp",
+      "details": {
+        "year": { "text": "2005", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "105 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": false },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": true },
+        "capacity": { "text": "5 Cabins", "icon": "./images/cabins.svg", "show": false },
+        "location": {
+          "text": "Miami Beach",
+          "icon": "./images/location.svg",
+          "show": true
+        }
+      },
+      "amenities": {
+        "gear": { "text": "Snorkling Gear", "icon": "./images/gear.svg", "show": true },
+        "pool": { "text": "Pool", "icon": "./images/pool.svg", "show": false },
+        "kayak": { "text": "Kayak", "icon": "./images/kayak.svg", "show": false },
+        "paddleboard": {
+          "text": "Paddleboard",
+          "icon": "./images/paddleboard.svg",
+          "show": true
+        },
+        "slide": { "text": "Slide", "icon": "./images/slide.svg", "show": true },
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": false },
+        "trampoline": {
+          "text": "Trampoline",
+          "icon": "./images/trampoline.svg",
+          "show": false
+        },
+        "jetski": { "text": "JetSki", "icon": "./images/jetski.svg", "show": true },
+        "jacuzzi": { "text": "Jacuzzi", "icon": "./images/jacuzzi.svg", "show": true },
+        "fishing": {
+          "text": "Fishing Gear",
+          "icon": "./images/hook.svg",
+          "show": false
+        }
+      },
+      "extraAmenities": {
+        "seabobs": { "text": "Seabobs", "icon": "./images/seabobs.svg", "show": true },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      }
+    },
+    {
+      "name": "107' AZIMUT",
+      "image": "./images/boat38.webp",
+      "details": {
+        "year": { "text": "2022", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "105 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": true },
+        "capacity": { "text": "5 Cabins", "icon": "./images/cabins.svg", "show": false },
+        "location": {
+          "text": "Miami Beach",
+          "icon": "./images/location.svg",
+          "show": true
+        }
+      },
+      "amenities": {
+        "gear": { "text": "Snorkling Gear", "icon": "./images/gear.svg", "show": true },
+        "pool": { "text": "Pool", "icon": "./images/pool.svg", "show": false },
+        "kayak": { "text": "Kayak", "icon": "./images/kayak.svg", "show": true },
+        "seabobs": { "text": "Seabobs", "icon": "./images/seabobs.svg", "show": true },
+        "paddleboard": {
+          "text": "Paddleboard",
+          "icon": "./images/paddleboard.svg",
+          "show": false
+        },
+        "slide": { "text": "Slide", "icon": "./images/slide.svg", "show": false },
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": false },
+        "trampoline": {
+          "text": "Trampoline",
+          "icon": "./images/trampoline.svg",
+          "show": false
+        },
+        "jetski": { "text": "JetSki", "icon": "./images/jetski.svg", "show": false },
+        "jacuzzi": { "text": "Jacuzzi", "icon": "./images/jacuzzi.svg", "show": false },
+        "fishing": {
+          "text": "Fishing Gear",
+          "icon": "./images/hook.svg",
+          "show": false
+        }
+      },
+      "extraAmenities": {
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      }
+    },
+    {
+      "name": "110' HORIZON",
+      "image": "./images/boat39.webp",
+      "details": {
+        "year": { "text": "2022", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "110 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": false },
+        "capacity": { "text": "5 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "location": {
+          "text": "Fort Lauderdale",
+          "icon": "./images/location.svg",
+          "show": true
+        }
+      },
+      "amenities": {
+        "gear": { "text": "Snorkling Gear", "icon": "./images/gear.svg", "show": true },
+        "pool": { "text": "Pool", "icon": "./images/pool.svg", "show": false },
+        "kayak": { "text": "Kayak", "icon": "./images/kayak.svg", "show": true },
+        "paddleboard": {
+          "text": "Paddleboard",
+          "icon": "./images/paddleboard.svg",
+          "show": true
+        },
+        "slide": { "text": "Slide", "icon": "./images/slide.svg", "show": false },
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": true },
+        "seabobs": { "text": "Seabobs", "icon": "./images/seabobs.svg", "show": true },
+        "trampoline": {
+          "text": "Trampoline",
+          "icon": "./images/trampoline.svg",
+          "show": false
+        },
+        "jetski": { "text": "JetSki", "icon": "./images/jetski.svg", "show": false },
+        "jacuzzi": { "text": "Jacuzzi", "icon": "./images/jacuzzi.svg", "show": false },
+        "fishing": {
+          "text": "Fishing Gear",
+          "icon": "./images/hook.svg",
+          "show": false
+        }
+      },
+      "extraAmenities": {
+        "jetski": { "text": "JetSki", "icon": "./images/jetski.svg", "show": true },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      }
+    },
+    {
+      "name": "112' SANLORENZO",
+      "image": "./images/boat40.webp",
+      "details": {
+        "year": { "text": "2022", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "112 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": false },
+        "capacity": { "text": "4 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "location": {
+          "text": "Miami Beach",
+          "icon": "./images/location.svg",
+          "show": true
+        }
+      },
+      "amenities": {
+        "gear": { "text": "Snorkling Gear", "icon": "./images/gear.svg", "show": true },
+        "pool": { "text": "Pool", "icon": "./images/pool.svg", "show": false },
+        "kayak": { "text": "Kayak", "icon": "./images/kayak.svg", "show": false },
+        "paddleboard": {
+          "text": "Paddleboard",
+          "icon": "./images/paddleboard.svg",
+          "show": false
+        },
+        "slide": { "text": "Slide", "icon": "./images/slide.svg", "show": false },
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": true },
+        "seabobs": { "text": "Seabobs", "icon": "./images/seabobs.svg", "show": true },
+        "trampoline": {
+          "text": "Trampoline",
+          "icon": "./images/trampoline.svg",
+          "show": false
+        },
+        "jetski": { "text": "JetSki", "icon": "./images/jetski.svg", "show": true },
+        "jacuzzi": { "text": "Jacuzzi", "icon": "./images/jacuzzi.svg", "show": false },
+        "fishing": {
+          "text": "Fishing Gear",
+          "icon": "./images/hook.svg",
+          "show": false
+        }
+      },
+      "extraAmenities": {
+        "jetski": { "text": "JetSki", "icon": "./images/jetski.svg", "show": true },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      }
+    },
+    {
+      "name": "112' CUSTOMLINE",
+      "image": "./images/boat41.webp",
+      "details": {
+        "year": { "text": "2010", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "112 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": false },
+        "capacity": {
+          "text": "5-6 Cabins",
+          "icon": "./images/cabins.svg",
+          "show": true
+        },
+        "location": {
+          "text": "Miami Beach",
+          "icon": "./images/location.svg",
+          "show": true
+        }
+      },
+      "amenities": {
+        "gear": { "text": "Snorkling Gear", "icon": "./images/gear.svg", "show": true },
+        "pool": { "text": "Pool", "icon": "./images/pool.svg", "show": false },
+        "kayak": { "text": "Kayak", "icon": "./images/kayak.svg", "show": false },
+        "paddleboard": {
+          "text": "Paddleboard",
+          "icon": "./images/paddleboard.svg",
+          "show": false
+        },
+        "slide": { "text": "Slide", "icon": "./images/slide.svg", "show": false },
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": true },
+        "seabobs": { "text": "Seabobs", "icon": "./images/seabobs.svg", "show": true },
+        "trampoline": {
+          "text": "Trampoline",
+          "icon": "./images/trampoline.svg",
+          "show": false
+        },
+        "jetski": { "text": "JetSki", "icon": "./images/jetski.svg", "show": true },
+        "jacuzzi": { "text": "Jacuzzi", "icon": "./images/jacuzzi.svg", "show": false },
+        "fishing": {
+          "text": "Fishing Gear",
+          "icon": "./images/hook.svg",
+          "show": false
+        }
+      },
+      "extraAmenities": {
+        "jetski": { "text": "JetSki", "icon": "./images/jetski.svg", "show": true },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      }
+    },
+    {
+      "name": "115' HORIZON",
+      "image": "./images/boat42.webp",
+      "details": {
+        "year": { "text": "2010", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "112 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": false },
+        "capacity": { "text": "5 Cabins", "icon": "./images/cabins.svg", "show": true },
+        "location": {
+          "text": "Miami Beach",
+          "icon": "./images/location.svg",
+          "show": true
+        }
+      },
+      "amenities": {
+        "gear": { "text": "Snorkling Gear", "icon": "./images/gear.svg", "show": true },
+        "pool": { "text": "Pool", "icon": "./images/pool.svg", "show": false },
+        "kayak": { "text": "Kayak", "icon": "./images/kayak.svg", "show": false },
+        "paddleboard": {
+          "text": "Paddleboard",
+          "icon": "./images/paddleboard.svg",
+          "show": false
+        },
+        "slide": { "text": "Slide", "icon": "./images/slide.svg", "show": false },
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": true },
+        "seabobs": { "text": "Seabobs", "icon": "./images/seabobs.svg", "show": false },
+        "trampoline": {
+          "text": "Trampoline",
+          "icon": "./images/trampoline.svg",
+          "show": false
+        },
+        "jetski": { "text": "JetSki", "icon": "./images/jetski.svg", "show": true },
+        "jacuzzi": { "text": "Jacuzzi", "icon": "./images/jacuzzi.svg", "show": true },
+        "fishing": {
+          "text": "Fishing Gear",
+          "icon": "./images/hook.svg",
+          "show": false
+        }
+      },
+      "extraAmenities": {
+        "jetski": { "text": "JetSki", "icon": "./images/jetski.svg", "show": false },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      }
+    },
+    {
+      "name": "126' CUSTOMLINE",
+      "image": "./images/boat43.webp",
+      "details": {
+        "year": { "text": "2018", "icon": "./images/year.svg", "show": true },
+        "size": { "text": "126 ft", "icon": "./images/size.svg", "show": true },
+        "guests": { "text": "13 Guests", "icon": "./images/guests.svg", "show": true },
+        "ac": { "text": "AC", "icon": "./images/ac.svg", "show": true },
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": false },
+        "capacity": {
+          "text": "5 Cabins",
+          "icon": "./images/cabins.svg",
+          "show": true
+        },
+        "location": {
+          "text": "Miami Beach",
+          "icon": "./images/location.svg",
+          "show": true
+        }
+      },
+      "amenities": {
+        "gear": {
+          "text": "Snorkling Gear",
+          "icon": "./images/gear.svg",
+          "show": false
+        },
+        "pool": { "text": "Pool", "icon": "./images/pool.svg", "show": false },
+        "paddleboard": {
+          "text": "Paddleboard",
+          "icon": "./images/paddleboard.svg",
+          "show": false
+        },
+        "slide": { "text": "Slide", "icon": "./images/slide.svg", "show": false },
+        "tender": { "text": "Tender", "icon": "./images/tender.svg", "show": true },
+        "kayak": { "text": "Kayak", "icon": "./images/kayak.svg", "show": true },
+        "seabobs": { "text": "Seabobs", "icon": "./images/seabobs.svg", "show": true },
+        "trampoline": {
+          "text": "Trampoline",
+          "icon": "./images/trampoline.svg",
+          "show": false
+        },
+        "jetski": { "text": "JetSki", "icon": "./images/jetski.svg", "show": true },
+        "jacuzzi": { "text": "Jacuzzi", "icon": "./images/jacuzzi.svg", "show": false },
+        "fishing": {
+          "text": "Fishing Gear",
+          "icon": "./images/hook.svg",
+          "show": false
+        }
+      },
+      "extraAmenities": {
+        "jetski": { "text": "JetSki", "icon": "./images/jetski.svg", "show": false },
+        "water": { "text": "Water", "icon": "./images/water.svg", "show": true },
+        "miscellaneous": {
+          "text": "Miscellaneous",
+          "icon": "./images/miscellaneousfloats.svg",
+          "show": true
+        }
+      }
+    }
+  ]
